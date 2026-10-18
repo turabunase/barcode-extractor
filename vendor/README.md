@@ -1,0 +1,1 @@
+Local barcode reader: barcode-detector 3.2.2 / zxing-wasm 3.1.3. Distributed licenses are included in this directory.
